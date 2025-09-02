@@ -10,7 +10,7 @@ Small MATLAB script that iterates the logistic map and plots its bifurcation dia
 
 ## Quick start
 
-Open MATLAB and run 'bifurcation_diagram.m'.
+Open MATLAB and run 'BifurcationDiagram.m'.
 
 ## Parameters (edit at the top of the script)
 
