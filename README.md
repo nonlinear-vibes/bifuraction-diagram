@@ -20,7 +20,7 @@ n — number of iterations per r (default 200)
 
 res — r step size / plot resolution (default 0.001)
 
-By default the plot shows the last 25% of iterations to approximate steady state.
+By default, the plot shows the last 25% of iterations to approximate steady state.
 
 ### Notes:
 
