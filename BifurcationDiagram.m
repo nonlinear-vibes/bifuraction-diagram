@@ -14,7 +14,7 @@ for j = 1:num_r
     for i = 1:n-1
         sol(i+1,j) = r*sol(i,j)*(1-sol(i,j));
         
-        % another sigle-hump function:
+        % another single-hump function:
         % sol(i+1,j) = r*cos(sol(i,j));
     end
 end
@@ -32,3 +32,4 @@ for i = 1:floor(0.25*n)
 end
 xlabel('r'); ylabel('x_n');
 title('Logistic Map Bifurcation');
+
